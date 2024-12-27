@@ -1,0 +1,14 @@
+FILE_START
+INPUT testFile:1 0
+INPUT testFile:10 1
+testFile:10,testFile:10,-9827141.97311306,4879319.01923187,10,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,10,,AERIAL,E,,10.0,,{4A856BB9-7A38-4430-B5D4-06BF106A4F52}
+INPUT testFile:2 0
+INPUT testFile:5 1
+testFile:5,testFile:5,-9827840.35123621,4880135.4828099,5,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,5,,AERIAL,E,,5.0,,{50CC3089-DB53-48A1-828D-838C3B31DDB2}
+INPUT testFile:14 0
+INPUT testFile:7 1
+testFile:7,testFile:7,-9827279.78269803,4879555.52935756,7,No Outlet,"30"" X 30""", ,Punched Telespar,2016,Warning, ,W14-2,Champaign,7,,AERIAL,E,,7.0,,{39BC922B-CA43-46CD-8894-88D910C0BD22}
+ACK testFile:10
+INPUT testFile:8 0
+ACK testFile:5
+ACK testFile:7

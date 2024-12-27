@@ -1,0 +1,21 @@
+FILE_START
+INPUT testFile:9 0
+INPUT testFile:11 1
+testFile:11,testFile:11,-9827133.64967315,4879453.17006437,11,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,11,,AERIAL,E,,11.0,,{1E6454DB-E924-4417-9E7F-1BBA2E8DFF68}
+INPUT testFile:3 1
+testFile:3,testFile:3,-9828662.01808626,4879483.90715145,3,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,3,,AERIAL,E,,3.0,,{4AEAB974-641C-4DF8-BE0B-AE40A0221559}
+INPUT testFile:4 1
+testFile:4,testFile:4,-9828960.27366333,4879769.84381104,4,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,4,,AERIAL,E,,4.0,,{37ACD662-5FC1-493C-B247-A148B99DD781}
+INPUT testFile:12 1
+testFile:12,testFile:12,-9827131.44767958,4879527.18154668,12,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,12,,AERIAL,E,,12.0,,{85F5B6E2-4938-4A34-84EA-B9AD9FE8BD96}
+INPUT testFile:13 1
+testFile:13,testFile:13,-9827113.95178085,4880112.54662207,13,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,13,,AERIAL,E,,13.0,,{2F0788A2-DB35-4B28-91C6-5224BFDBFBEB}
+INPUT testFile:6 1
+testFile:6,testFile:6,-9827280.20101259,4879663.34446508,6,No Outlet,"30"" X 30""", ,Punched Telespar,2010,Warning, ,W14-2,Champaign,6,,AERIAL,E,,6.0,,{4F33D5FF-11DC-42F7-9DA2-3CE2EEA56697}
+INPUT testFile:15 0
+ACK testFile:11
+ACK testFile:3
+ACK testFile:4
+ACK testFile:12
+ACK testFile:6
+ACK testFile:13

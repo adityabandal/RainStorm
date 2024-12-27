@@ -1,0 +1,31 @@
+rainstorm split count TrafficSigns_5000 result 3
+rainstorm filter select testFile result 2 Outlet
+rainstorm filter select TrafficSigns_1000 result13 3 Parking
+rainstorm filter select TrafficSigns_10000 result1 3 Green
+
+rainstorm filterSignPost countCategory TrafficSigns_5000 r5k 3 Punched Telespar
+rainstorm filterSignPost countCategory TrafficSigns_5000 resultapp25 3 Punched Telespar
+rainstorm filterSignPost countCategory TrafficSigns_1000 result 2 Punched Telespar
+
+rainstorm filterSignPost countCategory TrafficSigns_10000 result 3 Punched Telespar
+
+get filter_0_task_journal j0
+get filter_1_task_journal j1
+get filter_2_task_journal j2
+
+
+get result rl
+
+
+fail filter_0
+fail filter_1
+
+
+fail countCategory_0
+fail countCategory_1
+
+fail filterSignPost_0
+fail filterSignPost_1
+
+fail select_0
+fail select_1
